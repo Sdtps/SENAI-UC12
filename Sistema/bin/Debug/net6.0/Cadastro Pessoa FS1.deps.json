@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Sistema/1.0.0": {
+      "Cadastro Pessoa FS1/1.0.0": {
         "runtime": {
-          "Sistema.dll": {}
+          "Cadastro Pessoa FS1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Sistema/1.0.0": {
+    "Cadastro Pessoa FS1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
